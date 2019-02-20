@@ -1,9 +1,5 @@
 # Recommended ML Checklist
 
-https://www.jeremyjordan.me/ml-projects-guide/
-http://www.ic.unicamp.br/~sandra/pdf/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow-427-432.pdf
-https://machinelearningmastery.com/machine-learning-checklist/
-
 
 ### Problem Definition
 - [ ] Task Definition and Scope out Requirements
@@ -25,13 +21,31 @@ https://machinelearningmastery.com/machine-learning-checklist/
 - [ ] Perform Data Type formatting
 - [ ] Perform Missing Data imputation
 - [ ] Perform Data Cleaning based on all of the problems defined above
-- [ ] Perform Data Transformation on the features / target, if needed
+- [ ] Perform Data Transformation on the  target, if needed
 
 ### Feature Engineering
-- [ ] Perform feature selection, if needed
+- [ ] Perform Appropriate Train Test Split on the Data
+- [ ] Perform feature engineering
 - [ ] Perform feature aggregation
 - [ ] Perform feature encoding
 - [ ] Perform feature scaling / transformation
-- [ ] Perform Target scaling / transformation, if needed
 - [ ] Perform datetime feature engineering
-- [ ] Perform additional feature engineering
+- [ ] Perform feature selection, if needed
+
+### Model Baseline
+- [ ] Perform Model Baseline using Cross Validation Method
+- [ ] Perform Feature Importance on each model on the Model Baseline
+- [ ] Perform Error Analysis on each model on the Model Baseline
+- [ ] Choose Few Models which performs well in the Model Baseline Test - make sure that the models are not highly correlated
+- [ ] Build the metric function, if it is not readily available
+
+### Model Building
+- [ ] Build the Appropriate Model, using the model baseline as a performance gauge
+- [ ] Perform Hyperparameter Tuning to the Model
+- [ ] Build Ensemble with each of the model, aggregated with Linear Regression
+
+
+### Analysis
+- [ ] Perform Feature Importance on each model on the Final Model
+- [ ] Perform Error Analysis on each model on the Final Model
+- [ ] Perform Regression / Classification report on the Final Model

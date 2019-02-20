@@ -1,7 +1,6 @@
 # Recommended ML Packages
 
 ### Data Wrangling
-
 - Numpy
 - Scipy
 - Pandas
@@ -12,8 +11,11 @@
 - pandas_profiling
 
 ### Data Visualisation
-- yellowbrick
 - scikit-plot
+
+### DL Data Visualisation
+- Quiver
+- Tensorboard
 
 ### Visualisation
 - matplotlib
@@ -54,3 +56,7 @@
 ### Misc
 - imbalanced-learn
 - bamboos
+
+### Auto ML 
+- tpot
+- auto-sklearn
