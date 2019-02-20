@@ -1,6 +1,3 @@
-# Recommended ML Checklist
+# Awesome ML
 
-[ ] Task Definition and Scope out Requirements
-[ ] Determine Project Feasibility
-[ ] Propose Model Metrics
-[ ] Setup Project Codebase
+List of common packages as well as checklist needed to perform ML project in Python.
