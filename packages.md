@@ -7,11 +7,13 @@
 - Pandas
 - StatsModels
 
-### Model Framework
+### ML Model Framework
 
 - scikit-learn
 - xgboost
 - lightGBM
+
+### DL Model Framework
 - pytorch
 - tensorflow
 
