@@ -7,8 +7,23 @@
 - Pandas
 - StatsModels
 
-### ML Model Framework
+### Data Exploration
+- pandas_summary
+- pandas_profiling
 
+### Data Visualisation
+- yellowbrick
+- scikit-plot
+
+### Visualisation
+- matplotlib
+- seaborn
+- plotly
+
+### Encoding
+- category-encoders
+
+### ML Model Framework
 - scikit-learn
 - xgboost
 - lightGBM
@@ -17,22 +32,8 @@
 - pytorch
 - tensorflow
 
-### Visualisation
-- matplotlib
-- seaborn
-- scikit-plot
-- plotly
-
-### Data Exploration
-- pandas_summary
-- pandas_profiling
-
-### Encoding
-- category-encoders
-
 ### Model Exploration
 - Eli5
-- yellowbrick
 
 ### NLP
 - NLTK
