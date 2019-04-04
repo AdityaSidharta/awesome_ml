@@ -34,8 +34,9 @@
 - pytorch
 - tensorflow
 
-### Model Exploration
+### Model Exploration / Explainability
 - Eli5
+- Lime
 
 ### NLP
 - NLTK
