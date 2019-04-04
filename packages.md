@@ -42,6 +42,15 @@
 - SpaCy
 - Gensim
 
+### Embedding
+- FastText
+- Starspace
+
+### Collaborative Filtering
+- Implicit
+- LightFM
+- Spotlight
+
 ### Images
 - scikit-image
 - PIL
@@ -56,6 +65,10 @@
 ### Misc
 - imbalanced-learn
 - bamboos
+
+### Model Management
+- ML Flow
+- TensorboardX
 
 ### Auto ML 
 - tpot
