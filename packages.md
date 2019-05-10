@@ -34,10 +34,24 @@
 - pytorch
 - tensorflow
 
+# Model Exploration / Explainability
+- Eli5
+- Lime
+- shap
+
 ### NLP
 - NLTK
 - SpaCy
 - Gensim
+
+### Embedding
+- FastText
+- Starspace
+
+### Collaborative Filtering
+- Implicit
+- LightFM
+- Spotlight
 
 ### Images
 - scikit-image
@@ -54,11 +68,10 @@
 - imbalanced-learn
 - bamboos
 
+### Model Management
+- ML Flow
+- TensorboardX
+
 ### Auto ML 
 - tpot
 - auto-sklearn
-
-### Model Explainability
-- shap
-- lime
-- Eli5
