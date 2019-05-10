@@ -34,9 +34,6 @@
 - pytorch
 - tensorflow
 
-### Model Exploration
-- Eli5
-
 ### NLP
 - NLTK
 - SpaCy
@@ -60,3 +57,8 @@
 ### Auto ML 
 - tpot
 - auto-sklearn
+
+### Model Explainability
+- shap
+- lime
+- Eli5
