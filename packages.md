@@ -23,12 +23,10 @@
 - plotly
 
 ### Automated Feature Engineering
-- featuretools:
+- featuretools
 
-    Automated Feature Engineering in Python
-    Featuretools documentation and GitHub
-
-
+### Feature Selection
+- boruta_py
 
 ### Encoding
 - category-encoders
