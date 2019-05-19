@@ -12,6 +12,7 @@
 
 ### Data Visualisation
 - scikit-plot
+- yellowbrick
 
 ### DL Data Visualisation
 - Quiver
@@ -40,7 +41,7 @@
 - pytorch
 - tensorflow
 
-# Model Exploration / Explainability
+### Model Exploration / Explainability
 - Eli5
 - Lime
 - shap
