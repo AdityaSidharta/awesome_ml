@@ -22,6 +22,14 @@
 - seaborn
 - plotly
 
+### Automated Feature Engineering
+- featuretools:
+
+    Automated Feature Engineering in Python
+    Featuretools documentation and GitHub
+
+
+
 ### Encoding
 - category-encoders
 
