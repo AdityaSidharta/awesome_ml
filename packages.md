@@ -10,7 +10,7 @@
 - pandas_summary
 - pandas_profiling
 
-### Data Visualisation
+### Model Visualisation
 - scikit-plot
 - yellowbrick
 
@@ -71,9 +71,8 @@
 - Networkx
 - Pydot
 
-### Misc
+### Imbalanced Dataset
 - imbalanced-learn
-- bamboos
 
 ### Model Management
 - ML Flow
@@ -83,6 +82,7 @@
 - tpot
 - auto-sklearn
 
-### Web Service
+### Serving Tools
 - flask
 - ngrok
+- dask
