@@ -22,13 +22,16 @@ analyzed. Error Analysis and Model explainability should also be put over here
 
 - `serve`: this can contains scripts to perform batch model prediction (kaggle - csv), or online prediction (REST)
 
-- `monitor`:(Optional) this can contain scripts which aid the model monitoring for an online system, or model reporting for batch system
+- `monitor`: this can contain scripts which aid the model monitoring for an online system, model reporting for batch system, or model leaderboard within training / model building process
 
 - `main` : the pipeline of the model should be well defined here. `prepare`, `transform`, 
 and `model` has given us the neccessary steps to generate training data, validation data, testing data, and model.
 the exact steps taken to perform the end-to-end ML platform should be performed here, including both `evaluate` and `serve`
 
-- `utils`: utility code, such as logging, managing environment variables, config etc. This contains three important components, apart from the helper functions
-  - `logging`: to perform logging, which is able to handle both stream and file logs
-  - `config`: this should serve as the parameter of the feature engineering, choosing what kind of feature engineering, which column to use, etc. 
-  - `envs`: this provides us with the environment variable necessary
+- `utils`: utility code, such as logging, managing environment variables, config etc. 
+
+- `logging`: to perform logging, which is able to handle both stream and file logs
+
+- `config`: this should serve as the parameter of the feature engineering, choosing what kind of feature engineering, which column to use, etc. This config file ideally is seperated into three types of configurations, `prepare_config`, `transform_config`, and `model_config`
+
+- `envs`: this provides us with the environment variable necessary
