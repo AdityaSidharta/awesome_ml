@@ -85,4 +85,5 @@
 ### Serving Tools
 - flask
 - ngrok
-- dask
+- dash
+- dash-bootstrap-components
