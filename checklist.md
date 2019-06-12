@@ -7,6 +7,8 @@
 - [ ] Determine Project Feasibility
 - [ ] Propose Model Metrics
 - [ ] Setup Project Codebase
+- [ ] Setup Project Documentation
+- [ ] Perform Literature Review on SOtA techniques
 
 ### Data Collection
 - [ ] Source out Available Datasets / Perform Data Collection
