@@ -2,7 +2,8 @@
 
 
 ### Problem Definition
-- [ ] Task Definition and Scope out Requirements
+- [ ] Task Definition 
+- [ ] Scope out Requirements
 - [ ] Determine Project Feasibility
 - [ ] Propose Model Metrics
 - [ ] Setup Project Codebase
@@ -11,32 +12,32 @@
 - [ ] Source out Available Datasets / Perform Data Collection
 - [ ] Create Ground Truth (Manually or Automatically)
 - [ ] Build Data Ingestion Pipeline, if Necessary
-- [ ] Validate the Quality of Data
 
 ### Data Exploration
-- [ ] Create Data Dictionary: Column Definition
-- [ ] Check proposed Data Merging
-- [ ] Write Down Data Assumption & Verify Data Assumption
-- [ ] Perform Basic Data Profiling
 - [ ] Flag out all Outlier Data, Data Inconsistencies, Missing Values
-- [ ] Visualise the distribution for each feature / target column
-- [ ] Visualise the correlation between the features and the target
-- [ ] Visualise the scatter plot between features and target
+- [ ] Validate the Quality and Quantity of the Dataset
+- [ ] (TABULAR) Create Data Dictionary: Column Definition
+- [ ] (TABULAR) Check proposed Data Merging
+- [ ] (TABULAR) Write Down Data Assumption & Verify Data Assumption
+- [ ] (TABULAR) Visualise the distribution for each feature / target column
+- [ ] (TABULAR) Visualise the correlation between the features and the target
+- [ ] (TABULAR) Visualise the scatter plot between features and target
 
 ### Data Cleaning
-- [ ] Perform Data Type formatting
-- [ ] Perform Missing Data imputation
 - [ ] Perform Data Cleaning based on all of the problems defined above
-- [ ] Perform Data Transformation on the  target, if needed
+- [ ] (TABULAR) Perform Data Type formatting
+- [ ] (TABULAR) Perform Missing Data imputation
+- [ ] (TABULAR) Perform Data Transformation on the  target, if needed
 
 ### Feature Engineering
 - [ ] Perform Appropriate Train Test Split on the Data
-- [ ] Perform feature engineering
-- [ ] Perform feature aggregation
-- [ ] Perform feature encoding
-- [ ] Perform feature scaling / transformation
-- [ ] Perform datetime feature engineering
-- [ ] Perform feature selection, if needed
+- [ ] (TABULAR) Perform feature engineering
+- [ ] (TABULAR) Perform feature aggregation
+- [ ] (TABULAR) Perform feature encoding
+- [ ] (TABULAR) Perform feature scaling / transformation
+- [ ] (TABULAR) Perform datetime feature engineering
+- [ ] (TABULAR) Perform feature selection, if needed
+- [ ] (IMAGES) Perform data augmentation, if needed
 
 ### Model Baseline
 - [ ] Perform Model Baseline using Cross Validation Method
