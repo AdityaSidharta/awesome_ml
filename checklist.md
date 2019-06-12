@@ -42,10 +42,22 @@
 ### Model Building
 - [ ] Build the Appropriate Model, using the model baseline as a performance gauge
 - [ ] Perform Hyperparameter Tuning to the Model
-- [ ] Build Ensemble with each of the model, aggregated with Linear Regression
-
+- [ ] Build Ensemble with each of the model
 
 ### Analysis
 - [ ] Perform Feature Importance on each model on the Final Model
-- [ ] Perform Error Analysis on each model on the Final Model
+- [ ] Perform Error Analysis on each model on the Final Model / Use Clustering Method to understand Model Failure
 - [ ] Perform Regression / Classification report on the Final Model
+
+### Model Serving
+- [ ] Develop Serving capabilities for the Model
+
+### Testing
+- [ ] Perform Model Testing
+- [ ] Perform Integration Testing
+- [ ] Perform Unit Testing
+
+### Monitoring
+- [ ] Perform Data Ingestion Monitoring, if neccessary
+- [ ] Perform Model Performance Monitoring / Query Monitoring
+- [ ] Perform System Monitoring
