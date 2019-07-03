@@ -23,6 +23,10 @@
 - seaborn
 - plotly
 
+### Map Visualization
+- Kepler.gl
+- Mplleaflet
+
 ### Automated Feature Engineering
 - featuretools
 
