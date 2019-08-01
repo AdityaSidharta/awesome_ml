@@ -10,8 +10,9 @@
 - pandas_summary
 - pandas_profiling
 
-### Data Visualisation
+### Model Visualisation
 - scikit-plot
+- yellowbrick
 
 ### DL Data Visualisation
 - Quiver
@@ -22,6 +23,16 @@
 - seaborn
 - plotly
 - kepler.gl
+
+### Map Visualization
+- Kepler.gl
+- Mplleaflet
+
+### Automated Feature Engineering
+- featuretools
+
+### Feature Selection
+- boruta_py
 
 ### Encoding
 - category-encoders
@@ -36,7 +47,7 @@
 - tensorflow
 - pytorch-transformers
 
-# Model Exploration / Explainability
+### Model Exploration / Explainability
 - Eli5
 - Lime
 - shap
@@ -66,9 +77,8 @@
 - Networkx
 - Pydot
 
-### Misc
+### Imbalanced Dataset
 - imbalanced-learn
-- bamboos
 
 ### Model Management
 - ML Flow
@@ -78,6 +88,7 @@
 - tpot
 - auto-sklearn
 
+<<<<<<< HEAD
 ### Documentation
 - mkdocs
 - pdoc3
@@ -91,3 +102,9 @@
 ### Code Formatting
 - black
 - vulture
+
+### Serving Tools
+- flask
+- ngrok
+- dash
+- dash-bootstrap-components
