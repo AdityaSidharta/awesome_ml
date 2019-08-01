@@ -21,6 +21,7 @@
 - matplotlib
 - seaborn
 - plotly
+- kepler.gl
 
 ### Encoding
 - category-encoders
@@ -33,6 +34,7 @@
 ### DL Model Framework
 - pytorch
 - tensorflow
+- pytorch-transformers
 
 # Model Exploration / Explainability
 - Eli5
@@ -75,3 +77,17 @@
 ### Auto ML 
 - tpot
 - auto-sklearn
+
+### Documentation
+- mkdocs
+- pdoc3
+- slate
+
+### Logging & Notification
+- loguru
+- notifiers
+- knockknock
+
+### Code Formatting
+- black
+- vulture
