@@ -88,7 +88,6 @@
 - tpot
 - auto-sklearn
 
-<<<<<<< HEAD
 ### Documentation
 - mkdocs
 - pdoc3
