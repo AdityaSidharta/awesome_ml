@@ -91,6 +91,7 @@
 ### Documentation
 - mkdocs
 - pdoc3
+- portray
 - slate
 
 ### Logging & Notification
