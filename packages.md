@@ -30,6 +30,7 @@
 
 ### Automated Feature Engineering
 - featuretools
+- tsfresh
 
 ### Feature Selection
 - boruta_py
@@ -41,6 +42,7 @@
 - scikit-learn
 - xgboost
 - lightGBM
+- ngboost
 
 ### DL Model Framework
 - pytorch
