@@ -1,5 +1,8 @@
 # Recommended ML Packages
 
+### Data Transformation
+- dbt
+
 ### Data Wrangling
 - Numpy
 - Scipy
@@ -9,6 +12,10 @@
 ### Data Exploration
 - pandas_summary
 - pandas_profiling
+
+### Data Validation
+- TFDV
+- Great Expectation
 
 ### Model Visualisation
 - scikit-plot
