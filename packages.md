@@ -117,3 +117,8 @@
 - ngrok
 - dash
 - dash-bootstrap-components
+
+### Causal Inference
+- doWhy
+- CausalML
+- EconML
